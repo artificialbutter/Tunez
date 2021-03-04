@@ -8,6 +8,6 @@ Tunez is a simple music bot that supports YouTube, Twitter, Newgrounds Audio, an
 - queue |  Shows the queue
 - help | Shows the help embed
 ## Invite!
-- https://discordbotlist.com/bots/tunez
+- https://discord.ly/tunez
 - https://top.gg/bot/816956965656723467
 - https://discord.bots.gg/bots/816956965656723467
